@@ -44,7 +44,7 @@ module.exports = (args) => {
     Log.warn(`Android project not found: ${andBase}`);
   }
 
-  const andPath = `${andBase}/app/src/main/java/com/criticalblue/reactnative/GeneratedCertificatePinner.java`;
+  const andPath = `./node_modules/react-native-cert-pinner/android/src/main/java/com/criticalblue/reactnative/GeneratedCertificatePinner.java`;
 
   // prep ios project path
   
