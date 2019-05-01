@@ -139,7 +139,7 @@ $ react-native run-ios
 
 To update the certificate pins, edit the configuration file, regenerate the native sources, and rebuild the app.
 
-NOTE, there is no way to update the pin sets from javascript while the app is running.
+NOTE: there is no way to update the pin sets from javascript while the app is running.
 
 ### Certificate Security
 
